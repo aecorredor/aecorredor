@@ -5,8 +5,6 @@
 </p>
 <p align="center"><img src="https://komarev.com/ghpvc/?username=aecorredor&style=flat-square&color=blue" alt=""></p>
 
-I'm always looking to build digital products that people love to use.
-
 ---
 
 ### 🔥 &nbsp; Stats
